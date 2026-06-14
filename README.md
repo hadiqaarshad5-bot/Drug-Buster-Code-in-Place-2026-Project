@@ -30,14 +30,16 @@ Screenshots:
 
 
 Description:
-a. A cast of 12+ wildly different patients — each with their own personality, backstory, and questionable life choices
-b. Real pharmacology — every disease maps to an actual treatment, with mini-explanations after each round so you actually learn something
-c. ASCII animations — pulsing heartbeats, ambulances racing across the screen, sparkles when you save someone, dramatic tombstones when you don't
-d. A colorful terminal that doesn't look like a boring black box (thanks, colorama!)
-e. Typewriter dialogue so it feels like a movie, not a quiz
-f. Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House
-g. scoring system with ranks — start as a "Medical Student (Barely)" and work your way up to "House M.D. Himself"
-h. Persistent high scores so you can beat your own record
+12+ wildly different patients — each with their own personality, backstory, and questionable life choices.
+Real pharmacology learning — every disease maps to an actual treatment, with mini-explanations after each round so you learn while you play.
+ASCII animations — pulsing heartbeats, speeding ambulances, victory sparkles, and dramatic tombstones when things go terribly wrong.
+Colorful terminal interface — powered by Colorama to transform the command line into a vibrant, engaging game world.
+Typewriter-style dialogue — cinematic conversations that make every patient encounter feel like a scene from a medical drama.
+Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House, and other unpredictable challenges.
+Progression and ranking system — rise from "Medical Student (Barely)" to the legendary "House M.D. Himself."
+Persistent high scores — save your best performances and keep challenging yourself to become the ultimate Drug Buster.
+Medical comedy at every turn — absurd situations, hilarious patient stories, and plenty of questionable decisions.
+Learn while having fun — a perfect mix of education, strategy, and humor for pharmacology enthusiasts.
 
 Structure:
 
