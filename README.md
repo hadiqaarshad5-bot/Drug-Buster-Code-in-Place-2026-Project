@@ -65,7 +65,7 @@ How to Run it?
 This project is simple to set up and run. Follow the steps below:
 - Python 3 installed on your system (download it from https://www.python.org/downloads/ if needed)
 - A terminal (any standard terminal will work)
-- Clone the repository:
+- Clone the repository: https://github.com/hadiqaarshad5-bot/Drug-Buster-Code-in-Place-2026-Project
 - Navigate to the project directory: cd drug-buster
 - Install dependencies: This project requires only one external library: colorama.
 - pip install -r requirements.txt
