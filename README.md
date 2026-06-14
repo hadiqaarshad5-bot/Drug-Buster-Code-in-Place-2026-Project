@@ -77,10 +77,10 @@ Periodic chaos events occur to increase difficulty and unpredictability
 Higher streaks result in higher scores. Players can replay to improve their high score and rank.
 
 Built With
-Python 3 — developed as part of Code in Place learning experience
-Colorama — used for terminal styling and color effects
-ASCII art — custom-designed animations for immersive gameplay
-Coffee — heavily relied upon during development
+a. Python 3 —> developed as part of Code in Place learning experience
+b Colorama —> used for terminal styling and color effects
+c. ASCII art —> custom-designed animations for immersive gameplay
+d. Coffee —> heavily relied upon during development
 
   
 
