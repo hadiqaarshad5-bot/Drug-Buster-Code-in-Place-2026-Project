@@ -28,7 +28,7 @@ Screenshots:
 
 <img width="1381" height="789" alt="Screenshot 2026-06-14 at 6 57 07 PM" src="https://github.com/user-attachments/assets/30ea4b83-18fa-4b8a-b0c9-0f34fe3685b7" />
 
-<img width="504" height="404" alt="image" src="https://github.com/user-attachments/assets/c720e8bb-7d45-4a6d-bd2c-61d97851f8f8" />
+
 
 
 Description:
