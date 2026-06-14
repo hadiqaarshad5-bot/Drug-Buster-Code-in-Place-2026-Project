@@ -28,18 +28,24 @@ Screenshots:
 
 <img width="1381" height="789" alt="Screenshot 2026-06-14 at 6 57 07 PM" src="https://github.com/user-attachments/assets/30ea4b83-18fa-4b8a-b0c9-0f34fe3685b7" />
 
+<img width="504" height="404" alt="image" src="https://github.com/user-attachments/assets/c720e8bb-7d45-4a6d-bd2c-61d97851f8f8" />
+
 
 Description:
-12+ wildly different patients — each with their own personality, backstory, and questionable life choices.
-Real pharmacology learning — every disease maps to an actual treatment, with mini-explanations after each round so you learn while you play.
-ASCII animations — pulsing heartbeats, speeding ambulances, victory sparkles, and dramatic tombstones when things go terribly wrong.
-Colorful terminal interface — powered by Colorama to transform the command line into a vibrant, engaging game world.
-Typewriter-style dialogue — cinematic conversations that make every patient encounter feel like a scene from a medical drama.
-Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House, and other unpredictable challenges.
-Progression and ranking system — rise from "Medical Student (Barely)" to the legendary "House M.D. Himself."
-Persistent high scores — save your best performances and keep challenging yourself to become the ultimate Drug Buster.
-Medical comedy at every turn — absurd situations, hilarious patient stories, and plenty of questionable decisions.
-Learn while having fun — a perfect mix of education, strategy, and humor for pharmacology enthusiasts.
+
+
+•	12+ wildly different patients — each with their own personality, backstory, and questionable life choices.
+•	Real pharmacology learning — every disease maps to an actual treatment, with mini-explanations after each round so you learn while you play.
+•	ASCII animations — pulsing heartbeats, speeding ambulances, victory sparkles, and dramatic tombstones when things go terribly wrong.
+•	Colorful terminal interface — powered by Colorama to transform the command line into a vibrant, engaging game world.
+•	Typewriter-style dialogue — cinematic conversations that make every patient encounter feel like a scene from a medical drama.
+•	Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House, and other unpredictable challenges.
+•	Progression and ranking system — rise from "Medical Student (Barely)" to the legendary "House M.D. Himself."
+•	Persistent high scores — save your best performances and keep challenging yourself to become the ultimate Drug Buster.
+•	Medical comedy at every turn — absurd situations, hilarious patient stories, and plenty of questionable decisions.
+•	Learn while having fun — a perfect mix of education, strategy, and humor for pharmacology enthusiasts.
+
+
 
 Structure:
 
