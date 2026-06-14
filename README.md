@@ -33,17 +33,16 @@ Screenshots:
 
 Description:
 
-
-•	12+ wildly different patients — each with their own personality, backstory, and questionable life choices.
-•	Real pharmacology learning — every disease maps to an actual treatment, with mini-explanations after each round so you learn while you play.
-•	ASCII animations — pulsing heartbeats, speeding ambulances, victory sparkles, and dramatic tombstones when things go terribly wrong.
-•	Colorful terminal interface — powered by Colorama to transform the command line into a vibrant, engaging game world.
-•	Typewriter-style dialogue — cinematic conversations that make every patient encounter feel like a scene from a medical drama.
-•	Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House, and other unpredictable challenges.
-•	Progression and ranking system — rise from "Medical Student (Barely)" to the legendary "House M.D. Himself."
-•	Persistent high scores — save your best performances and keep challenging yourself to become the ultimate Drug Buster.
-•	Medical comedy at every turn — absurd situations, hilarious patient stories, and plenty of questionable decisions.
-•	Learn while having fun — a perfect mix of education, strategy, and humor for pharmacology enthusiasts.
+- 12+ wildly different patients — each with their own personality, backstory, and questionable life choices.
+- Real pharmacology learning — every disease maps to an actual treatment, with mini-explanations after each round so you learn while you play.
+-	ASCII animations — pulsing heartbeats, speeding ambulances, victory sparkles, and dramatic tombstones when things go terribly wrong.
+-	Colorful terminal interface — powered by Colorama to transform the command line into a vibrant, engaging game world.
+-	Typewriter-style dialogue — cinematic conversations that make every patient encounter feel like a scene from a medical drama.
+-	Random chaos events — power outages, zombie outbreaks, surprise visits from Dr. House, and other unpredictable challenges.
+-	Progression and ranking system — rise from "Medical Student (Barely)" to the legendary "House M.D. Himself."
+-	Persistent high scores — save your best performances and keep challenging yourself to become the ultimate Drug Buster.
+-	Medical comedy at every turn — absurd situations, hilarious patient stories, and plenty of questionable decisions.
+-	Learn while having fun — a perfect mix of education, strategy, and humor for pharmacology enthusiasts.
 
 
 
@@ -74,21 +73,21 @@ This project is simple to set up and run. Follow the steps below:
 How to Play
 After starting the game, the flow is as follows:
 
-A main menu is displayed — select Start New Game
-A patient arrives at the hospital
-Read the patient’s story and review their symptoms
-Choose the correct treatment from four options
-Correct answers earn points and increase your streak
-Incorrect answers result in losing a life and the patient’s condition worsening
-After three incorrect answers, the game ends
-Periodic chaos events occur to increase difficulty and unpredictability
-Higher streaks result in higher scores. Players can replay to improve their high score and rank.
+- A main menu is displayed — select Start New Game
+- A patient arrives at the hospital
+- Read the patient’s story and review their symptoms
+- Choose the correct treatment from four options
+- Correct answers earn points and increase your streak
+- Incorrect answers result in losing a life and the patient’s condition worsening
+- After three incorrect answers, the game ends
+- Periodic chaos events occur to increase difficulty and unpredictability
+- Higher streaks result in higher scores. Players can replay to improve their high score and rank.
 
 Built With
-a. Python 3 —> developed as part of Code in Place learning experience
-b Colorama —> used for terminal styling and color effects
-c. ASCII art —> custom-designed animations for immersive gameplay
-d. Coffee —> heavily relied upon during development
+- Python 3 —> developed as part of Code in Place learning experience
+- Colorama —> used for terminal styling and color effects
+- ASCII art —> custom-designed animations for immersive gameplay
+- Coffee —> heavily relied upon during development
 
   
 
