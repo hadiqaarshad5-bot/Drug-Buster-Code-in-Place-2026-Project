@@ -40,18 +40,9 @@ g. scoring system with ranks — start as a "Medical Student (Barely)" and work 
 h. Persistent high scores so you can beat your own record
 
 Structure:
-drug-buster/
-│
-├── main.py              # The game loop. Start here.
-├── ui.py                # Colors, banners, and the typewriter effect
-├── animations.py        # Every animation (heartbeats, ambulances, etc.)
-├── patients.py         # The 12+ patients and their dialogue
-├── drugs.py            # The drug-disease database
-├── chaos_events.py     # Random events that mess with the player
-│
-├── requirements.txt     # Just colorama. That's all you need.
-├── .gitignore          # Tells Git what to ignore
-└── README.md           # This file!
+
+<img width="560" height="248" alt="Screenshot 2026-06-14 at 7 14 08 PM" src="https://github.com/user-attachments/assets/f55cfb97-eef1-4f31-b6eb-bf404150a5da" />
+
 
 A quick rundown of each file:
 - main.py runs the show — the menu, the game loop, lives, scoring, and game over
